@@ -1,7 +1,9 @@
 #nav {
   margin: 1%;
   background-color: #C83C53;
-  padding: 0.5em 0;
-  float: left;}
+  padding: 0.5em 0;}
 #header {
   text-align: center;}
+li {
+	display: inline;
+	padding: 0.5em;}
