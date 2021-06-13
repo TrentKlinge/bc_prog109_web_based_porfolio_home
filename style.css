@@ -6,7 +6,7 @@
 #header {
   text-align: center;}
 
-#navList {
+ul#navList li {
   display: inline;
   padding: 0.5em ;
 
